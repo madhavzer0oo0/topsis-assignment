@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+_drive/
+.config/
+*.gdoc
+*.gsheet
+*.gslides
+__pycache__/
+.ipynb_checkpoints/
